@@ -3,22 +3,21 @@
   "version": "1.0.0",
   "description": "npm run all",
   "main": "app.build.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "all": "r.js -o app.build.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/missxiaolin/require.git"
-  },
-  "author": "xiao",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/missxiaolin/require/issues"
-  },
-  "homepage": "https://github.com/missxiaolin/require#readme",
   "dependencies": {
     "requirejs": "^2.3.5"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaobei-wang/require.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaobei-wang/require/issues"
+  },
+  "homepage": "https://github.com/xiaobei-wang/require#readme"
 }
