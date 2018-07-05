@@ -20,15 +20,6 @@
             "exclude": [
                 "../js/lib/config"
             ]
-        },
-        {
-            "name": "../pages/product/product",
-            "include": [
-                "jquery"
-            ],
-            "exclude": [
-                "../js/lib/config"
-            ]
         }
     ]
 }
